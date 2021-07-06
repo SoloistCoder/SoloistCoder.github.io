@@ -1,6 +1,6 @@
 body{
 	font-family: 'Montserrat',sans-serif;
-	background: center/cover #000 url(https://wallpaperaccess.com/full/2004483.jpg) no-repeat;
+	background: center/cover #000 url("https://wallpaperaccess.com/full/2004483.jpg") no-repeat;
 	height: 100%;
 	width: 100vw;
 	box-sizing: border-box;
